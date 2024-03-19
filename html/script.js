@@ -8,4 +8,3 @@ document.body.prepend(myd)
 document.addEventListener('DOMContentLoaded', function () {
     console.log('DOMContentLoaded');
 });
-
