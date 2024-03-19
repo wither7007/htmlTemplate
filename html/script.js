@@ -6,6 +6,6 @@ let myd = document.createElement('div')
 myd.textContent = mydeliver
 document.body.prepend(myd)
 document.addEventListener('DOMContentLoaded', function () {
-    console.log('load');
+    console.log('DOMContentLoaded');
 });
 
