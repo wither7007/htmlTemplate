@@ -15,9 +15,11 @@ body {
   overflow: hidden;
   margin: 0;
   padding: 20px;
+  font-size: 16px;
 }
 
 .container {
+  font-size: 16px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
